@@ -1,8 +1,10 @@
 # Project Dientito [IS802]
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/IS-UNAH/Project_Dientito-IS802/main/PNF/img/logo.png" width="400px"</img> 
+    <img src="https://raw.githubusercontent.com/IS-UNAH/Project_Dientito-IS802/main/PNF/img/logo.png" width="300px"> </img> 
 </div>
+
+<img src="https://raw.githubusercontent.com/IS-UNAH/Project_Dientito-IS802/main/PNF/img/logo.png" style=" width:300px ; height:300px " />
 
 ## Proyecto realizado para la clase de Ingenieria de software
 Impartida por el *Ing. Jose Luis Montero*

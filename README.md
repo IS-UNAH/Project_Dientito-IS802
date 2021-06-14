@@ -2,9 +2,7 @@
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/IS-UNAH/Project_Dientito-IS802/main/PNF/img/300px.png" width="300px"> </img> 
-</div>
 
-<div align="center">
 ## Proyecto realizado para la clase de Ingenieria de software
 Impartida por el *Ing. Jose Luis Montero*
 

@@ -3,7 +3,7 @@
 
 
  <center>
-<table style="">
+<table>
   <tr>
     <th colspan="2" style="width: 100%;">INTEGRANTES</td>
   </tr>
@@ -16,8 +16,8 @@
     <td style="width: 50%;">20151022327</td>
   </tr>
     <tr>
-    <td style="width: 50%;">Ariel Isai Turcios Garcia </td>
-    <td style="width: 50%;">20131006640</td>
+    <td text-align: center; style="width: 50%;" >Ariel Isai Turcios Garcia </td>
+    <td text-align: center; style="width: 50%;">20131006640</td>
   </tr>
     <tr>
     <td style="width: 50%;">Cristian Alexander Martínez Ochoa </td>

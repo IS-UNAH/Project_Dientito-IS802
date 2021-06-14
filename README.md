@@ -1,3 +1,4 @@
+<center>
 # Project Dientito [IS802]
 ## Proyecto realizado para la clase de Ingenieria de software, impartida por el Ing. Jose Luis Montero
 
@@ -29,3 +30,4 @@
     <td style="width: 50%;">Amed Alejandro Cueva Nuñez</td>
     <td style="width: 50%;">20121000434</td>
   </tr>
+  </center>

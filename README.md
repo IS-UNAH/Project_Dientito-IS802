@@ -31,8 +31,3 @@
     <td style="width: 50%;">Amed Alejandro Cueva Nuñez</td>
     <td style="width: 50%;">20121000434</td>
   </tr>
-
-  table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}

@@ -8,8 +8,8 @@
     <td colspan="3" style="width: 100%;" >INTEGRANTES</td>
   </tr>
   <tr>
-    <td style="width: 50%;">Nombre</td>
-    <td style="width: 50%;">Numero De Cuenta</td>
+    <th style="width: 50%;">Nombre</td>
+    <th style="width: 50%;">Numero De Cuenta</td>
   </tr>
   <tr>
     <td style="width: 50%;">Eduardo Josue Ordoñez Bulnes</td>
@@ -31,3 +31,8 @@
     <td style="width: 50%;">Amed Alejandro Cueva Nuñez</td>
     <td style="width: 50%;">20121000434</td>
   </tr>
+
+  table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}

@@ -1,7 +1,7 @@
 # Project Dientito [IS802]
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/IS-UNAH/Project_Dientito-IS802/main/PNF/img/logo.png" width="300px"> </img> 
+    <img src="https://raw.githubusercontent.com/IS-UNAH/Project_Dientito-IS802/main/PNF/img/300px.png" width="300px"> </img> 
 </div>
 
 <div align="center">

@@ -5,7 +5,7 @@
  
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td colspan="3" style="width: 100%; padding-top: 50px;">INTEGRANTES</td>
+    <td colspan="3" style="width: 100%;">INTEGRANTES</td>
   </tr>
   <tr>
     <td style="width: 50%;">Nombre</td>

@@ -1,8 +1,6 @@
 # Project Dientito [IS802]
 ## Proyecto realizado para la clase de Ingenieria de software, impartida por el Ing. Jose Luis Montero
 
-
- <center>
 <table>
   <tr>
     <th colspan="2" style="width: 100%;">INTEGRANTES</td>
@@ -16,8 +14,8 @@
     <td style="width: 50%;">20151022327</td>
   </tr>
     <tr>
-    <td text-align: center; style="width: 50%;" >Ariel Isai Turcios Garcia </td>
-    <td text-align: center; style="width: 50%;">20131006640</td>
+    <td style="width: 50%;" >Ariel Isai Turcios Garcia </td>
+    <td style="width: 50%;">20131006640</td>
   </tr>
     <tr>
     <td style="width: 50%;">Cristian Alexander Martínez Ochoa </td>
@@ -31,4 +29,3 @@
     <td style="width: 50%;">Amed Alejandro Cueva Nuñez</td>
     <td style="width: 50%;">20121000434</td>
   </tr>
-  </center>

@@ -1,0 +1,247 @@
+body{
+	font: 15px Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color: f4f4f4;
+}
+
+/* Propiedades Globales */
+.contenedor{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor button{
+	width: 90%;
+	height: 70px;
+	margin: auto;
+}
+
+/* Encabezado */
+header{
+	background-color: #24282b;
+	color: #ffffff;
+	padding-top: 30px;
+	min-width: 70px;
+	border-bottom: 5px solid #1293d4
+}
+header a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+header li{
+ 	float: left;
+ 	display: inline;
+ 	padding: 0 20px 0 20px;
+}
+header #marca{
+	float: left;
+}
+header #marca img{
+ 	float: left;
+ 	width: 150px; 	
+}
+header #marca h1{
+	margin: 0; 	
+}
+header .resaltado, header .actual a{
+ 	color: #1293d4;
+ 	font-weight: bold;
+}
+
+
+/*Navegador*/
+header nav{
+ 	float: right;
+ 	margin-top: 5px;
+}
+
+header a:hover{
+ 	color: #ccc;
+ 	font-weight: bold;
+}
+
+
+/*Slider*/
+.slider {
+	margin-top: 50px;
+	width: 95%;
+	margin: auto;
+	overflow: hidden;	
+}
+.slider ul{
+	width: 300%;
+	display: flex;
+	padding: 0;
+
+	animation: cambio 12s infinite;
+	animation-direction: alternate;
+}
+.slider li{
+	width: 100%;
+	list-style: none;
+}
+.slider img{
+	width: 100%;
+}
+@keyframes cambio{
+	0% {margin-left: 0%;}
+	30% {margin-left: 0%;}
+
+	35% {margin-left: -100%;}
+	65% {margin-left: -100%;}
+
+	70% {margin-left: -200%;}
+	100% {margin-left: -200%;}
+}
+
+
+/*Congresos*/
+section #caja{
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
+section #caja a img{
+	width: 70%;
+	padding: 0;
+	display: block;
+	margin: auto;
+}
+
+
+/*Organigrama*/
+section #org{
+	margin-top: 30px;
+	
+}
+section #org img{
+	width: 95%;
+	padding: 0;
+	display: block;
+	margin: auto;
+}
+
+
+/*lateral*/
+aside#lateral{
+	float: right;
+	width: 40%;
+	margin-top: 10px;
+}
+/*lateral*/
+aside#lateralI{
+	float: left;
+	width: 60%;
+	margin-top: 10px;
+}
+
+
+
+.fondo.img{
+	width: 100%;
+}
+
+.oscuro{
+	padding: 15px;
+	background-color: #35424a;
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.oscuro ul{
+	width: 30%;
+	padding: 0;
+}
+.oscuro ul li{
+	display: inline;
+}
+
+.oscuro.login{
+	display: inline;
+	text-align: center;
+}
+
+.oscuro ul li img{
+	width: 20%;
+}
+.oscuro img{
+	width: 50%;
+	align-content: center;
+}
+
+.oscuro h3{
+	text-align: center;
+}
+
+.oscuro h4{
+	text-align: center;
+}
+
+.oscuro form{
+	text-align: center;
+}
+
+article#main-col{
+	float: left;
+	width: 65%;
+}
+
+/*FOOTER*/
+footer{
+	padding: 20px;
+	margin-top: 20px;
+	color: #fff;
+	background-color: #1293d4;
+	text-align: center;
+}
+footer #ai a img{
+	width: 100px;
+}
+footer #ai h3{
+	margin: 0;
+}
+
+
+/*Paises*/
+.paises{
+	margin-top: 50px;
+	width: 95%;
+	margin: auto;
+	overflow: hidden;
+	color: #070B19;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.paises ul{
+	width: 300%;
+	display: flex;
+	padding: 0;
+}
+.paises li{
+	display: inline;
+}
+.paises li a img{
+	width: 30%;
+	height: 160px;
+}
+
+
+/*Divisiones tecnicas*/
+.div{
+	margin-top: 30px;
+	border-bottom: 10px solid #1293d4	
+}
+.div img{
+	width: 80%;
+	padding: 0;
+	display: block;
+	margin: auto;
+}

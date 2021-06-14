@@ -3,7 +3,7 @@
 
 
  <center>
-<table style="width: 100%; text-align: center;">
+<table style="">
   <tr>
     <th colspan="2" style="width: 100%;">INTEGRANTES</td>
   </tr>

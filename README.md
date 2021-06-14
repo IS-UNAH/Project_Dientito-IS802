@@ -21,3 +21,4 @@ registrado que ese paciente se ha tratado y que se cobre ese tratamiento.
 | Cristian Alexander Martínez Ochoa | `20131015700` |
 | Cesar Johan Vasquez Rivera | `20141900230` |
 | Amed Alejandro Cueva Nuñez | `20121000434` |
+</center>

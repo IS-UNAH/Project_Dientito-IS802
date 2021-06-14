@@ -2,7 +2,7 @@
 ## Proyecto realizado para la clase de Ingenieria de software, impartida por el Ing. Jose Luis Montero
 
 
- 
+ <center>
 <table style="width: 100%; text-align: center;">
   <tr>
     <td colspan="3" style="width: 100%;" >INTEGRANTES</td>
@@ -31,3 +31,4 @@
     <td style="width: 50%;">Amed Alejandro Cueva Nuñez</td>
     <td style="width: 50%;">20121000434</td>
   </tr>
+  </center>

@@ -6,7 +6,6 @@
 ## Proyecto a realizar para la clase de Ingenieria de software
 Impartida por el *Ing. Jose Luis Montero*
 
-## Con los siguientes requerimientos
 ### Requerimientos
 De parte del público interesado:
 Se necesita crear nuevos expedientes en base al número de identidad del paciente.

@@ -1,6 +1,16 @@
 # Project Dientito [IS802]
 ## Proyecto realizado para la clase de Ingenieria de software, impartida por el Ing. Jose Luis Montero
 
+## Con los siguientes requerimientos
+### Requerimientos
+De parte del público interesado:
+Se necesita crear nuevos expedientes en base al número de identidad del paciente.
+Unir el expediente del paciente con el carnet del estudiante (ó ID unico) que esté a
+cargo de ese expediente. También unir el carnet de estudiante y el expediente del
+paciente con los materiales dentales que usa con el paciente para que quede
+registrado que ese paciente se ha tratado y que se cobre ese tratamiento.
+
+
 <table>
   <tr>
     <th colspan="2" style="width: 100%;">INTEGRANTES</td>

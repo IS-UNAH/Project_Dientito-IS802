@@ -1,5 +1,6 @@
 # Project Dientito [IS802]
-## Proyecto realizado para la clase de Ingenieria de software, impartida por el Ing. Jose Luis Montero
+## Proyecto realizado para la clase de Ingenieria de software
+Impartida por el *Ing. Jose Luis Montero*
 
 ## Con los siguientes requerimientos
 ### Requerimientos

@@ -5,11 +5,11 @@
  
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td colspan="3" style="width: 100%;">INTEGRANTES</td>
+    <td colspan="3" style="width: 100%; text-align: center;" >INTEGRANTES</td>
   </tr>
   <tr>
-    <td style="width: 50%;">Nombre</td>
-    <td style="width: 50%;">Numero De Cuenta</td>
+    <td style="width: 50%; text-align: center;">Nombre</td>
+    <td style="width: 50%; text-align: center;">Numero De Cuenta</td>
   </tr>
   <tr>
     <td style="width: 50%;">Eduardo Josue Ordoñez Bulnes</td>
